@@ -1,4 +1,1 @@
->>
->>>>>
-<>
-clear
+print('hello git')
